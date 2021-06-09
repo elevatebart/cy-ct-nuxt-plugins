@@ -29,6 +29,7 @@
 
 <script lang="ts">
 import Vue from "vue";
+import Logo from "~~/";
 
 export default Vue.extend({
   mounted() {
